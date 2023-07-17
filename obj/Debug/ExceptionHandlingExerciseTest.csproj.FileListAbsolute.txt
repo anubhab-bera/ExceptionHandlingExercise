@@ -1,0 +1,8 @@
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\bin\Debug\ExceptionHandlingExerciseTest.exe.config
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\bin\Debug\ExceptionHandlingExerciseTest.exe
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\bin\Debug\ExceptionHandlingExerciseTest.pdb
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\obj\Debug\ExceptionHandlingExerciseTest.csproj.AssemblyReference.cache
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\obj\Debug\ExceptionHandlingExerciseTest.csproj.SuggestedBindingRedirects.cache
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\obj\Debug\ExceptionHandlingExerciseTest.csproj.CoreCompileInputs.cache
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\obj\Debug\ExceptionHandlingExerciseTest.exe
+C:\.NET Training\Day 6\ExceptionHandlingExerciseTest\ExceptionHandlingExerciseTest\obj\Debug\ExceptionHandlingExerciseTest.pdb
